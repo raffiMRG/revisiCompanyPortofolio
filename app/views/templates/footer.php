@@ -25,12 +25,11 @@
             </div>
             <div class="menu-footer">
                 <h3>Menu</h3>
-                <a href="">Home</a>
-                <a href="">About</a>
-                <a href="">Service</a>
-                <a href="">Project</a>
-                <a href="">Team</a>
-                <a href="">Contact US</a>
+                <a href="<?= BASEURL; ?>">Home</a>
+                <a href="<?= BASEURL; ?>about">About</a>
+                <a href="<?= BASEURL; ?>service">Service</a>
+                <a href="<?= BASEURL; ?>project">Project</a>
+                <a href="<?= BASEURL; ?>contactUs">Contact US</a>
             </div>
         </div>
     </div>
@@ -42,10 +41,16 @@
             <div class="message">
                 <h2>This Is message</h2>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum cumque quis ducimus itaque perferendis possimus corrupti explicabo, architecto tempore sed nihil pariatur, sint ut inventore cupiditate, aspernatur consequatur porro iste?</p>
+            
+                <a href="#">
+                    <div class="send">
+                            <span class="material-icons md-48">send</span>  
+                    </div>
+                </a>
             </div>
         </div>
     </div>
-    <script src="js/script.js"></script>
-    <script src="js/joint-chat.js"></script>
+    <script src="<?= BASEURL; ?>js/script.js"></script>
+    <script src="<?= BASEURL; ?>js/joint-chat.js"></script>
 </body>
 </html>

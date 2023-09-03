@@ -24,12 +24,15 @@ class App{
                 unset($url[1]);
             }
         }
+
+        // var_dump($url);
         // params
         if ( !empty($url) ){
             $this->params = array_values($url);
         }
         // jalankan controler dan method, serta kirim params jika ada
         call_user_func_array([$this->controller, $this->method], $this->params);
+        // call_user_func_array([$this->controller, "index"], $this->params);
     }
 
     public function parseURL(){

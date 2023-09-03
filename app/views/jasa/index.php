@@ -1,5 +1,5 @@
     <!-- hero section start -->
-    <div class="hero" style="background-image: url('img/jumbo.png')">
+    <div class="hero" style="background-image: url('<?= BASEURL; ?>img/jumbo.png')">
             <div class="title">
                 <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
                 <p>Veritatis sint neque exercitationem alias odio doloribus inventore</p>
@@ -96,7 +96,7 @@
             </div>
         </div>
         <div class="button-pengalaman">
-            <a href="about.html">SELENGKAPNYA</a>
+            <a href="<?= BASEURL; ?>about">SELENGKAPNYA</a>
         </div>
     </div>
 

@@ -57,3 +57,26 @@
     line-height: 2.4vh;
     color: black;
 }
+
+.send{
+    width: 15vh;
+    height: 6.75vh;
+    background-color:  #128C7E;
+    text-align: center;
+    border-radius: 4.5vh;
+    /* position: absolute; */
+    cursor: pointer;
+    margin-top: 18.5vh;
+    margin-left: 21.25vh;
+}
+
+.send:hover{
+    background-color: #0d6157;
+}
+
+.send > .material-icons{
+    font-size: 6vh;
+    line-height: 6.75vh;
+    /* color: #f3f3f3; */
+    color: #f3f3f3;
+}

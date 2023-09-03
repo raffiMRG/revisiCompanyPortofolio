@@ -1,5 +1,5 @@
  <!-- hero section start -->
- <div class="hero" style="background-image: url('img/jumbo.png')">
+ <div class="hero" style="background-image: url('<?= BASEURL; ?>img/jumbo.png')">
             <div class="title">
                 <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
                 <p>Veritatis sint neque exercitationem alias odio doloribus inventore</p>
@@ -148,34 +148,34 @@
             <div class="slider">
                 <div class="slider-track">
                     <div class="slide">
-                        <img src="img/andalan.png">
+                        <img src="<?= BASEURL; ?>img/andalan.png">
                     </div>
                     <div class="slide">
-                        <img src="img/indosad.png">
+                        <img src="<?= BASEURL; ?>img/indosad.png">
                     </div>
                     <div class="slide">
-                        <img src="img/KAI.png">
+                        <img src="<?= BASEURL; ?>img/KAI.png">
                     </div>
                     <div class="slide">
-                        <img src="img/Mandiri.png">
+                        <img src="<?= BASEURL; ?>img/Mandiri.png">
                     </div>
                     <div class="slide">
-                        <img src="img/msa.png">
+                        <img src="<?= BASEURL; ?>img/msa.png">
                     </div>
                     <div class="slide">
-                        <img src="img/andalan.png">
+                        <img src="<?= BASEURL; ?>img/andalan.png">
                     </div>
                     <div class="slide">
-                        <img src="img/indosad.png">
+                        <img src="<?= BASEURL; ?>img/indosad.png">
                     </div>
                     <div class="slide">
-                        <img src="img/KAI.png">
+                        <img src="<?= BASEURL; ?>img/KAI.png">
                     </div>
                     <div class="slide">
-                        <img src="img/Mandiri.png">
+                        <img src="<?= BASEURL; ?>img/Mandiri.png">
                     </div>
                     <div class="slide">
-                        <img src="img/msa.png">
+                        <img src="<?= BASEURL; ?>img/msa.png">
                     </div>
                 </div>
             </div>

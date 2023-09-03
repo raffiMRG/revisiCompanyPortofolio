@@ -4,9 +4,15 @@ const circle = jointChat.querySelector('.circle');
 
 const message = circle.querySelector('.message');
 
+const send = circle.querySelector('.send');
+
 // circle.addEventListener('click', function(){
 //     alert('ok');
 // });
+send.addEventListener('mouseover', function(e){
+    e.target.style.cursor ='pointer';
+    e.stopPropagation();
+});
 
 message.addEventListener('mouseover', function(e){
     e.target.style.cursor ='context-menu';
