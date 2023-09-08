@@ -19,6 +19,10 @@
         flex-direction: column;
     }
 
+    .contact-us1,.contact-us2,.contact-us3{
+        width: auto !important;
+    }
+
     /* map */
 
     /* alamat */

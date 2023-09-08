@@ -10,7 +10,12 @@
     display: flex;
     justify-content: center;
 }
-.proyek > h2,h1{
+.proyek > h2{
+    line-height: 60px;
+    font-family: Montserrat, sans-serif;
+}
+
+.proyek > h1{
     line-height: 60px;
     font-family: Montserrat, sans-serif;
 }

@@ -39,7 +39,7 @@
         </div>
   
         <div class="navbar-extra">
-          <a href="#" id="hamburger-menu"><i class="fa fa-bars"></i></a>
+          <a id="hamburger-menu"><i class="fa fa-bars"></i></a>
         </div>
     </nav>
     <!--Navbar end-->

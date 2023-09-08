@@ -40,9 +40,14 @@
             <i class="fab fa-whatsapp"></i>
             <div class="message">
                 <h2>This Is message</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cum cumque quis ducimus itaque perferendis possimus corrupti explicabo, architecto tempore sed nihil pariatur, sint ut inventore cupiditate, aspernatur consequatur porro iste?</p>
+                <p><strong>Hallo *PT. BAYONET MERAH PUTIH</strong> saat ini saya sedang mengalami masalah dan ingin meminta bantuan:</p>
+                <p>Nama :</p>
+                <p>Donisili :</p>
+                <p>Permasalahan :</p>
+                <p>Untuk bisa menggunakan jasa dari *PT. BAYONET MERAH PUTIH* apa saja yang harus saya persiapkan dan bagaimana prosedurnya.</p>
+                <p>Saya Tunggu Info Selanjutnya, Terimakasih</p>
             
-                <a href="#">
+                <a href="https://api.whatsapp.com/send/?phone=628877738282&text=Hallo+%2APT.+BAYONET+MERAH+PUTIH%2A+saat+ini+saya+sedang+mengalami+masalah+dan+ingin+meminta+bantuan%3A%0A%0A%2ANama+%3A%2A%0A%2ADonisili+%3A%2A%0A%2APermasalahan+%3A%2A%0A%0AUntuk+bisa+menggunakan+jasa+dari+%2APT.+BAYONET+MERAH+PUTIH%2A+apa+saja+yang+harus+saya+persiapkan+dan+bagaimana+prosedurnya.%0A%0ASaya+Tunggu+Info+Selanjutnya%2C%0A%0A%2ATerimakasih%2A&type=phone_number&app_absent=0">
                     <div class="send">
                             <span class="material-icons md-48">send</span>  
                     </div>

@@ -80,8 +80,8 @@
     }
 
     .about-desc{
-        width: 100% !important;
-        height: 500px !important;
+        width: fit-content !important;
+        height: auto !important;
     }
 
     .about-desc > h2{
@@ -97,8 +97,17 @@
     }
 
     .about-desc > a{
-        font-size: 16px;
+        font-size: 14px;
         /* margin-top: 20px; */
+    }
+
+    .button-wget{
+        padding: 10px 20px;
+        color: #f3f3f3;
+        border-radius: 30px;
+        font-size: 20px;
+        margin-left: 0px !important;
+        text-align: center;
     }
 
     .about-doc{
@@ -122,14 +131,20 @@
 
     .result{
         height: 940px !important;
+        padding: 10px 5px !important;
     }
     
     section[id="result"]{
         flex-direction: column;
         height: 860px !important;
         justify-content: space-between !important;
-        
+        width: 100% !important;
+        box-shadow: none !important;
     }
+
+    .element-Result{
+        width: 100% !important;
+    }    
 
     /* proyek kami */
 
@@ -142,11 +157,13 @@
         font-size: 16px;
         line-height: 16px;
         margin-top: 0;
+        /* background-color: purple !important; */
     }
 
     .proyek > h1{
         font-size: 20px;
         line-height: 22px;
+        /* background-color: blue !important; */
     }
     
     .proyek > .p{
@@ -155,8 +172,14 @@
 
     .galery{
         margin-top: 10px !important;
+        width: 100% !important;
+        padding: 0 !important;
     }
-    
+
+    .flipbox{
+        margin: 10px 0 !important;
+    }
+
     .flipbox:first-of-type + .flipbox{
         width: 346px !important;
     }
@@ -211,6 +234,7 @@
 
     .testimoni{
         width: 100% !important;
+        height: fit-content !important;
         padding: 20px !important;
         margin-left: 0 !important;
         margin-right: 0 !important;
@@ -259,6 +283,7 @@
 
     .staff1,.staff2,.staff3{
         margin-bottom: 10px;
+        width: 100% !important;
     }
 
     .staff > a{
