@@ -6,6 +6,7 @@ class Jasa extends Controller{
                         "pengalaman.css",
                         "testimonial.css"];
         $data['title'] = 'Jasa';
+        $data['waveColor'] = "#fff";
         $this->view('templates/header', $data);
         $this->view('jasa/index', $data);
         $this->view('templates/footer');

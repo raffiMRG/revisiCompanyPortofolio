@@ -1,5 +1,5 @@
 .penggunaan{
-    margin-top: 8rem;
+    margin: 0 0 !important;
     padding: 96px;
     background-color: #313131;
     color: #f3f3f3;
@@ -24,7 +24,7 @@
 }
 
 .penggunaan-image1 {
-    background-image: url('../img/1.png');
+    background-image: url('../img/awal.png');
     height: 50%;
     background-size: cover;
     background-position: center;
@@ -55,7 +55,7 @@
 }
 
 .penggunaan-image2 {
-    background-image: url('../img/2.png');
+    background-image: url('../img/tengah.png');
     height: 50%;
     background-size: cover;
     background-position: center;
@@ -63,7 +63,7 @@
     border-radius: 10px;
 }
 .penggunaan-image3 {
-    background-image: url('../img/3.png');
+    background-image: url('../img/akhir.png');
     height: 50%;
     background-size: cover;
     background-position: center;

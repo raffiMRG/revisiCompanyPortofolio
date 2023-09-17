@@ -17,7 +17,7 @@
 
 .layanan1,.layanan2,.layanan3 {
     width: 341px;
-    height: 473px;
+    height: 650px;
     background-color: #ffff;
     border-radius: 9px;
     box-shadow: 5px 5px 20px rgb(216, 216, 216);
@@ -25,7 +25,7 @@
 }
 
 .layanan-image1 {
-    background-image: url('../img/1.png');
+    background-image: url('../img/penagihan.png');
     height: 50%;
     background-size: cover;
     background-position: center;
@@ -33,9 +33,9 @@
 }
 
 .layanan-role{
-    background-image: url('../img/salary-2.png');
     width: 92px;
     height: 92px;
+    border-radius: 50%;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -44,26 +44,45 @@
     top: -42px;
     left: 37px;
 }
+.layanan1 .role1{
+    background-image: url('../img/salary-2.png');
+}
+
+.layanan2 .role2{
+    background-image: url('../img/salary-3.png');
+}
+
+.layanan3 .role3{
+    background-image: url('../img/salary-1.png');
+}
+
+
 
 .layanan-description{
     text-align: left;
     margin-left: 37px;
+    padding-right: 20px;
 }
 
-.layanan-description li{
-    margin-left: 37px;
-    margin-top: 10px;
+.layanan-description > h3{
+    margin-top: -25px;
+}
+
+.layanan-description ul{
+    font-size: 14px;
+    margin-left: 20px;
+    margin-top: 5px;
 }
 
 .layanan-image2 {
-    background-image: url('../img/2.png');
+    background-image: url('../img/pelelangan.jpg');
     height: 50%;
     background-size: cover;
     background-position: center;
     position: relative;
 }
 .layanan-image3 {
-    background-image: url('../img/3.png');
+    background-image: url('../img/partTime.jpg');
     height: 50%;
     background-size: cover;
     background-position: center;

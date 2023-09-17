@@ -23,8 +23,8 @@
     }
 
     .about-desc{
-        width: fit-content !important;
-        height: auto !important;
+        width: 100% !important;
+        height: 500px !important;
     }
 
     .about-desc > h2{
@@ -40,17 +40,8 @@
     }
 
     .about-desc > a{
-        font-size: 14px;
+        font-size: 16px;
         /* margin-top: 20px; */
-    }
-
-    .button-wget{
-        padding: 10px 20px;
-        color: #f3f3f3;
-        border-radius: 30px;
-        font-size: 20px;
-        margin-left: 0px !important;
-        text-align: center;
     }
 
     .about-doc{
@@ -74,20 +65,14 @@
 
     .result{
         height: 940px !important;
-        padding: 10px 5px !important;
     }
     
     section[id="result"]{
         flex-direction: column;
         height: 860px !important;
         justify-content: space-between !important;
-        width: 100% !important;
-        box-shadow: none !important;
+        
     }
-
-    .element-Result{
-        width: 100% !important;
-    }    
 
     /* layanan */
 

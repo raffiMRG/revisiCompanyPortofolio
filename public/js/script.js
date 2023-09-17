@@ -4,8 +4,14 @@ const hamburger = document.querySelector('.navbar-extra')
 
 const navbarNav = document.querySelector('.navbar-nav')
 
+const navbarNavA = navbarNav.querySelector('a');
+
 hamburger.onclick = () => {
     navbarNav.classList.toggle('navbar-nav-active')
+}
+
+navbarNav.onclick = () => {
+    navbarNav.classList.remove('navbar-nav-active')
 }
 
 // tutup navbar jika di klik di tempat lain

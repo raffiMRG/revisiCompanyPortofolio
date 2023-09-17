@@ -1,4 +1,5 @@
 .about{
+    /* display: none; */
     padding: 96px 96px 0px 96px;
     /* background-color: #a8a8a8; */
     background-color: #f3f3f3;
@@ -41,7 +42,7 @@ p[id="about"]{
 }
 
 .img-doc{
-    background-image: url('../img/2.png');
+    background-image: url('../img/gambar.jpg');
     height: 414px;
     background-size: cover;
     background-position: center;
@@ -73,12 +74,18 @@ p[id="about"]{
 }
 
 .wget-wrap{
-    width: 448px;
+    /* width: 448px; */
+    width: 100%;
     height: 165px;
     background-color: red;
     border-radius: 14px;
     padding-top: 5%;
     margin-top: -10px;
+}
+
+.wget-wrap , h2{
+    /* margin-top: -10px; */
+    line-height: 20px;
 }
 
 .wget-wrap h2[di="wget"],p[di="wget"]{

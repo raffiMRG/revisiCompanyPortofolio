@@ -4,11 +4,12 @@ const circle = jointChat.querySelector('.circle');
 
 const message = circle.querySelector('.message');
 
-const send = circle.querySelector('.send');
+const send = message.querySelector('.send');
 
 // circle.addEventListener('click', function(){
 //     alert('ok');
 // });
+
 send.addEventListener('mouseover', function(e){
     e.target.style.cursor ='pointer';
     e.stopPropagation();
@@ -32,7 +33,7 @@ document.addEventListener('click', function(e){
     // console.log(!message.contains(e.target));
     // console.log(!message.contains(e.target) && !circle.contains(e.target));
     if(!message.contains(e.target) && !circle.contains(e.target)){
-        console.log(!message.contains(e.target) && !circle.contains(e.target));
+        // console.log(!message.contains(e.target) && !circle.contains(e.target));
         circle.classList.remove('size');
     }
 })

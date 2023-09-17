@@ -1,0 +1,23 @@
+    /* footer */
+    .footer{
+        overflow: hidden !important;
+        padding: 50px 10px 50px 10px !important;
+    }
+
+    .layanan-footer > h3, .menu-footer > h3 {
+        margin-top: 10px !important;
+    }
+
+    .container-footer{
+        flex-direction: column;
+    }
+
+    /* joint-chat */
+    .joint-chat{
+        right: 15px !important;
+        bottom: 15px !important;
+    }
+
+    .message ul li{
+        font-size: 12px;
+    }

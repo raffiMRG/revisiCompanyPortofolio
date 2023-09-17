@@ -14,7 +14,7 @@
 
     /* proyek */
     .proyek{
-        padding: 50px 10px 50px 10px !important;
+        padding: 50px 5px 50px 5px !important;
     }
     
     .proyek > h2{
@@ -27,18 +27,6 @@
     .proyek > h1{
         font-size: 20px;
         line-height: 22px;
-    }
-
-    .flipbox-description > h2{
-        color: red;
-        font-size: 16px;
-        line-height: 16px;
-        margin-top: 0;
-    }
-
-    .flipbox-description > p{
-        font-size: 14px;
-        line-height: 16px;
     }
 
     .galery{
@@ -58,6 +46,18 @@
 
     .flipbox-description{
         width: auto !important;
+    }
+
+    .flipbox-description > h2{
+        color: red;
+        font-size: 16px;
+        line-height: 16px;
+        margin-top: 0;
+    }
+
+    .flipbox-description > p{
+        font-size: 14px;
+        line-height: 16px;
     }
 
     /* penggunaan */

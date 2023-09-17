@@ -9,6 +9,7 @@ class Project extends Controller{
                         "project-testimonial.css",
                         "mitra.css"];
         $data['title'] = 'Project';
+        $data['waveColor'] = "#fff";
         $this->view('templates/header', $data);
         $this->view('project/index', $data);
         $this->view('templates/footer');

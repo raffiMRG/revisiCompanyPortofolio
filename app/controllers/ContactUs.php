@@ -5,7 +5,8 @@ class ContactUs extends Controller{
         $data['css'] = ["contact-us-media.css",
                         "contact.css",
                         "alamat.css"];
-        $data['title'] = 'Contact Us';
+        $data['title'] = 'HUBUNGI KAMI';
+        $data['waveColor'] = "#fff";
         $this->view('templates/header', $data);
         $this->view('contactUs/index', $data);
         $this->view('templates/footer');

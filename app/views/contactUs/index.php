@@ -1,14 +1,3 @@
-<!-- hero section start -->
-<div class="hero" style="background-image: url('<?= BASEURL; ?>img/jumbo.png')">
-            <div class="title">
-                <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
-                <p>Veritatis sint neque exercitationem alias odio doloribus inventore</p>
-                <p>? Repudiandae quam sequi quas</h1>
-            </div>
-            <svg class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,128L120,149.3C240,171,480,213,720,208C960,203,1200,149,1320,122.7L1440,96L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
-        </div>
-    <!-- hero section end -->
-
     <!-- contac start -->
     <div class="contact-us">
         <div class="priview-contact-us">
@@ -17,14 +6,18 @@
                     <i class="fas fa-phone fa-rotate-90"></i>
                 </div>
                 <div class="judul">Hubungi Kami</div>
-                <div class="keterangan">CEO</div>
+                <div class="keterangan">
+                    - (021) 22927597
+                    <br>
+                    - 082298811285
+                </div>
             </div>
             <div class="contact-us2">
                 <div class="contact-us-image2">
                     <i class="fa fa-envelope"></i>
                 </div>
                 <div class="judul">Email</div>
-                <div class="keterangan">Manager</div>
+                <div class="keterangan">setara.kukuhcendana@gmail.com</div>
             </div>
             <div class="contact-us3">
                 <div class="contact-us-image3">
@@ -32,8 +25,8 @@
                 </div>
                 <div class="judul">Jam Kerja</div>
                 <div class="keterangan">Buka Senin - Jum'at
-                    08.00 - 17.00
-                    Hari Libur Tutup</div>
+                    09.00 - 17.00, SABTU 09.00 - 13.00, MINGGU LIBUR
+                    </div>
             </div>
         </div>
     </div>
@@ -53,14 +46,14 @@
             <div class="img-alamat"></div>
             <div class="img-deskripsi">
                 <p>Kantor Kami</p>
-                <h1>SOLUSI MASALAH SENGKETA, EKSEKUSI PENGOSONGAN LAHAN DAN PENAGIHAN</h1>
+                <h1>SOLUSI MASALAH PERDAGANGAN BESAR, PENYEDIAAN TENAGA KERJA, BIRO KREDIT & PENAGIHAN</h1>
                 <div class="alm-kantor">
-                    <div class="nama-kantor">PT. BAYONET MERAH PUTIH</div>
-                    <div class="lokasi">JL. Grogolan RT. 01 RW. Ketelan, Banjarsari, Surakarta</div>
+                    <div class="nama-kantor">PT. SETARA KUKUH CENDANA</div>
+                    <div class="lokasi">Ruko Roxy ,Villa Mutiara, Blok B 01, No. 09, SerpongPd. Jagung Tim, Kec. Serpong Utara, Kota Tangerang Selatan, Banten 15323</div>
                 </div>
                 <div class="alm-kantor">
-                    <div class="nama-kantor">PT. BAYONET MERAH  PUTIH CABANG KLATEN</div>
-                    <div class="lokasi">JL. H Samanhudi No. 132, Tegalsepur, Kalten, Jawa Tengah</div>
+                    <div class="nama-kantor">PT. SETARA KUKUH CENDANA CABANG 1</div>
+                    <div class="lokasi">RT.002/RW.002, Mekarsari, Kec. Neglasari, Kota Tangerang, Banten 15129</div>
                 </div>
             </div>
         </div>

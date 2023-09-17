@@ -6,6 +6,7 @@ class About extends Controller{
                         "about.css",
                         "layanan.css"];
         $data['title'] = 'About';
+        $data['waveColor'] = "#fff";
         $this->view('templates/header', $data);
         $this->view('about/index', $data);
         $this->view('templates/footer');

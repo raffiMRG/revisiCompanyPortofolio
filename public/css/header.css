@@ -11,6 +11,7 @@
   height: 100%;
   margin: 0;
   padding: 0;
+  /* overflow-x: hidden; */
   
 }
   * {
@@ -22,17 +23,32 @@
     text-decoration: none;
   }
 
+  html{
+    scroll-behavior: smooth;
+  }
+
   body {
     font-family: "Noto sans", sans-serif;
+    /* background-color: green; */
   }
+  
+  /* .container-nav{
+    display: block;
+    width: 100%;
+  } */
 
   /* navbar */
   .navbar {
     display: flex;
+    /* display: block; */
+    /* width: 1300px; */
     justify-content: space-around;
     align-items: center;
-    background-color: rgba(1, 1, 1, 0.8);
-    border-bottom: 1px solid #5c452e;
+    /* padding: 0.5rem 2%; */
+    /* background-color: rgba(1, 1, 1, 1); */
+    /* background-color: #C32011; */
+    background-image: linear-gradient(to bottom, rgb(10, 0, 0),rgb(80, 0, 0), rgb(207, 0, 0));
+    /* border-bottom: 1px solid #5c452e; */
     position: fixed;
     top: 0;
     left: 0;
@@ -41,12 +57,17 @@
   }
   
   .navbar-logo img{
-    width: 10vh;
+    width: 15vh;
   }
   
   .navbar .navbar-nav {
     margin-left: 45vh;
   }
+
+  /* a active */
+  /* .navbar .navbar-nav a:first-of-type{
+    color: var(--Primary);
+  } */
 
   .navbar .navbar-nav a{
     color: #fff;
@@ -71,6 +92,10 @@
   .navbar .navbar-nav a:last-of-type::after {
     content: none;
   }
+  /* underline active */
+  /* .navbar .navbar-nav a:first-of-type:after {
+    transform: scaleX(0.5);
+  } */
   
   .navbar .navbar-nav a:hover::after {
     transform: scaleX(0.5);
@@ -78,8 +103,9 @@
 
 
   .nav-contact{
-    border: 2px solid salmon;
-    background: salmon;
+    /* border: 2px solid salmon; */
+    background: rgb(241, 2, 2);
+    box-shadow: 0px 0px 10px 0px rgb(39, 1, 1);
     padding: 10px 20px;
     color: var(--bg);
     border-radius: 12px;
@@ -87,7 +113,7 @@
   }
 
   .nav-contact:hover{
-    background: rgba(1, 1, 1, 0.8);
+    background: rgb(163, 0, 0);
     color: #fff;
   }
   

@@ -1,0 +1,38 @@
+.navbar{
+    /* display: none; */
+}
+
+.hero{
+    /* display: none;*/
+    
+}
+
+.about{
+    /* display: none; */
+}
+
+.layanan{
+    /* display: none; */
+
+}
+
+.penggunaan{
+    /* display: none; */
+}
+
+.mitra{     /*  <== MASALAH */
+    /* display: none; */
+}
+
+.testimonial{       /*  <== MASALAH */
+    /* display: none;   */
+    /* margin: 0 !important; */
+}
+
+.staff{
+
+}
+
+.footer{
+    /* display: none !important; */
+}

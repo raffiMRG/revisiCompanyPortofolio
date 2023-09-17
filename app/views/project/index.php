@@ -1,14 +1,3 @@
- <!-- hero section start -->
- <div class="hero" style="background-image: url('<?= BASEURL; ?>img/jumbo.png')">
-            <div class="title">
-                <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit</h1>
-                <p>Veritatis sint neque exercitationem alias odio doloribus inventore</p>
-                <p>? Repudiandae quam sequi quas</h1>
-            </div>
-            <svg class="wave" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#fff" fill-opacity="1" d="M0,128L120,149.3C240,171,480,213,720,208C960,203,1200,149,1320,122.7L1440,96L1440,320L1320,320C1200,320,960,320,720,320C480,320,240,320,120,320L0,320Z"></path></svg>
-        </div>
-    <!-- hero section end -->
-
     <!-- proyek -->
     <div class="proyek">
         <h2>PROYEK KAMI</h2>
