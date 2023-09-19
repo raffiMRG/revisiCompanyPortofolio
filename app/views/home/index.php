@@ -4,7 +4,7 @@
             <div class="container-about">
                 <div class="about-desc">
                     <h2>Tentang Kami</h2>
-                    <h1 id="about">PENANGANAN PERKARA YANG KAMI DKI JAKARTA & JABODETABEK</h1>
+                    <h1 id="about">PENANGANAN PERKARA YANG KAMI LAYANI UNTUK WILAYAH DKI JAKARTA & JABODETABEK</h1>
                     <p id="about"><strong>PT. Setara Kukuh Cendana</strong> merupakan perusahaan yang bergerak pada jasa penagihan (Debt Collection) dan Biro Kredit, Perdagangan Besar Atas Balas Jasa (Fee) Atau Kontrak, Perdagangan Besar Dan Eceran Mobil Baru Dan Bekas, Perdagangan Besar Sepeda Motor Baru Dan Besar, Dan Aktivitas Penyediaan Tenaga Kerja Waktu Tertentu di Indonesia.</p>
                     <label for=""></label>
                     <li>PENAGIHAN HUTANG</li>
@@ -104,24 +104,24 @@
                     <div class="penggunaan-image1"></div>
                     <div class="penggunaan-role">1</div>
                     <div class="penggunaan-description">
-                        <h3>Gelar Perkara</h3>
-                        <p>Klien memberikan penjelasa masalah yang dihadapi serta bukti - bukti pendukung</p>
-                    </div>
-                </div>
-                <div class="penggunaan2">
-                    <div class="penggunaan-image2"></div>
-                    <div class="penggunaan-role">2</div>
-                    <div class="penggunaan-description">
-                        <h3>Biaya Jasa</h3>
-                        <p>Besaran biaya yang dikeluarkan untuk penanganan suatu masalah sesuai dengan kesepakatan</p>
+                        <h3>Perjanjian kerjasama/MOU</h3>
+                        <p> Kesepakatan kerjasama antar 2 belah pihak</p>
                     </div>
                 </div>
                 <div class="penggunaan3">
                     <div class="penggunaan-image3"></div>
                     <div class="penggunaan-role">3</div>
                     <div class="penggunaan-description">
-                        <h3>Tanda Tangan Kuasa</h3>
-                        <p>Surat ini digunakan untuk memindahkan wewenang ke pihak lain sebagai wali kuasa</p>
+                        <h3>Pelaksanaan Surat Kuasa</h3>
+                        <p> Surat perjanjian kontrak kerjasama perusahaan</p>
+                    </div>
+                </div>
+                <div class="penggunaan2">
+                    <div class="penggunaan-image2"></div>
+                    <div class="penggunaan-role">2</div>
+                    <div class="penggunaan-description">
+                        <h3>Biaya Jasa / Fee</h3>
+                        <p>Besaran biaya yang dikeluarkan untuk penanganan suatu masalah sesuai dengan kesepakatan</p>
                     </div>
                 </div>
             </div>
