@@ -194,34 +194,53 @@
                 <div class="slider">
                     <div class="slider-track">
                         <div class="slide">
-                            <img src="img/andalan.png">
+                            <img src="img/maf-removebg-preview.png">
                         </div>
                         <div class="slide">
-                            <img src="img/indosad.png">
+                            <img src="img/mcf.jpg">
                         </div>
                         <div class="slide">
-                            <img src="img/KAI.png">
+                            <img src="img/wom.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/adira.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/chailes.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/figroup.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/mandiri.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/mega.jpg">
+                        </div>
+                        <!-- ke2 -->
+                        <div class="slide">
+                            <img src="img/maf-removebg-preview.png">
+                        </div>
+                        <div class="slide">
+                            <img src="img/mcf.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/wom.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/adira.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/chailes.jpg">
+                        </div>
+                        <div class="slide">
+                            <img src="img/figroup.jpg">
                         </div>
                         <div class="slide">
                             <img src="img/Mandiri.png">
                         </div>
                         <div class="slide">
-                            <img src="img/msa.png">
-                        </div>
-                        <div class="slide">
-                            <img src="img/andalan.png">
-                        </div>
-                        <div class="slide">
-                            <img src="img/indosad.png">
-                        </div>
-                        <div class="slide">
-                            <img src="img/KAI.png">
-                        </div>
-                        <div class="slide">
-                            <img src="img/Mandiri.png">
-                        </div>
-                        <div class="slide">
-                            <img src="img/msa.png">
+                            <img src="img/mega.jpg">
                         </div>
                     </div>
                 </div>
