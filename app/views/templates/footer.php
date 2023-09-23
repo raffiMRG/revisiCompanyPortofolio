@@ -67,7 +67,7 @@
                     <li>Menyediakan jasa tenaga kerja oleh mitra perusahaan</li>
                 </ul>
             
-                <a href="https://api.whatsapp.com/send/?phone=628877738282&text=Hallo+%2APT.+BAYONET+MERAH+PUTIH%2A+saat+ini+saya+sedang+mengalami+masalah+dan+ingin+meminta+bantuan%3A%0A%0A%2ANama+%3A%2A%0A%2ADonisili+%3A%2A%0A%2APermasalahan+%3A%2A%0A%0AUntuk+bisa+menggunakan+jasa+dari+%2APT.+BAYONET+MERAH+PUTIH%2A+apa+saja+yang+harus+saya+persiapkan+dan+bagaimana+prosedurnya.%0A%0ASaya+Tunggu+Info+Selanjutnya%2C%0A%0A%2ATerimakasih%2A&type=phone_number&app_absent=0">
+                <a href="https://api.whatsapp.com/send/?phone=6282298811285&text=Hallo+%2APT.+SETARA+KUKUH+CENDANA%2A+saat+ini+saya+sedang+mengalami+masalah+dan+ingin+meminta+bantuan%3A%0A%0A%2ANama+%3A%2A%0A%2ADomisili+%3A%2A%0A%2APermasalahan+%3A%2A%0A%0AUntuk+bisa+menggunakan+jasa+dari+%2APT.+SETARA+KUKUH+CENDANA%2A+apa+saja+yang+harus+saya+persiapkan+dan+bagaimana+prosedurnya.%0A%0ASaya+Tunggu+Info+Selanjutnya%2C%0A%0A%2ATerimakasih%2A&type=phone_number&app_absent=0">
                     <div class="send">
                             <span class="material-icons md-48">send</span>  
                     </div>
