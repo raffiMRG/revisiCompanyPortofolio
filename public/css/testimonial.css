@@ -55,11 +55,18 @@
 .test-img{
     width: 75px;
     height: 75px;
-    background-image: url(../img/dimm.jpg);  
     border-radius: 37px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;  
+}
+
+.model-1{
+    background-image: url(../img/dimm.jpg);  
+}
+
+.model-2{
+    background-image: url(../img/asdfads.jpg);  
 }
 
 .name-and-from{

@@ -257,7 +257,7 @@
                 <!-- 1 -->
                 <div class="testimoni">
                     <div class="test-title">
-                        <div class="test-img"></div>
+                        <div class="test-img model-1"></div>
                         <div class="name-and-from">
                             <h3>M.Dimas Ramdani F.S</h3>
                             <!-- <p>CV.Adhi Buana</p> -->
@@ -281,12 +281,12 @@
                 </div>
                 
                 <!-- 2 -->
-                <!-- <div class="testimoni">
+                <div class="testimoni">
                     <div class="test-title">
-                        <div class="test-img"></div>
+                        <div class="test-img model-2"></div>
                         <div class="name-and-from">
                             <h3>Kris Budianto</h3>
-                            <p>CV.Adhi Buana</p>
+                            <!-- <p>CV.Adhi Buana</p> -->
                         </div>
                         <div class="quote">
                             <i class="fas fa-quote-right"></i>   
@@ -300,11 +300,11 @@
                         <i class="fas fa-star"></i>
                     </div>   
                     <div class="tes-deskripsi">
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nulla, provident ea corporis porro dolor ipsum doloribus consequuntur rerum consectetur quidem nesciunt error, aspernatur alias tempora sapiente, dolore ullam perferendis beatae?</p>
+                        <p>Saya sangat bersyukur telah memiliki kesempatan untuk bekerja di PT.SKC. Perusahaan ini benar-benar luar biasa dalam memberikan peluang pengembangan karier dan lingkungan kerja yang mendukung. Saya telah belajar banyak dari tim yang berdedikasi dan berpengalaman, yang selalu siap membantu. Selain itu, budaya kerja yang inklusif dan kolaboratif di PT.SKC membuat saya merasa dihargai dan termotivasi untuk memberikan yang terbaik.</p>
                         <br>
-                        <p>Terimakasih</p>
+                        <p>Terimakasih PT.SKC</p>
                     </div>
-                </div> -->>      
+                </div>      
                 
             </div>
         </div>
